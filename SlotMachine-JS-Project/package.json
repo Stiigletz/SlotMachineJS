@@ -1,0 +1,25 @@
+{
+  "name": "slotmachine-js-project",
+  "version": "1.0.0",
+  "description": "node/js Slot Machine",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stiigletz/SlotMachineJS.git"
+  },
+  "keywords": [
+    "slots"
+  ],
+  "author": "Stiigletz aka Kyle Rigdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stiigletz/SlotMachineJS/issues"
+  },
+  "homepage": "https://github.com/Stiigletz/SlotMachineJS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
